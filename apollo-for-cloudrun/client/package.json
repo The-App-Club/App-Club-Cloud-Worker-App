@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.5.10",
+    "graphql": "^16.3.0",
+    "isomorphic-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}

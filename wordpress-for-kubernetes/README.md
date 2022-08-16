@@ -1,0 +1,4 @@
+- Ref
+  - [mysql-wordpress-persistent-volume](https://kubernetes.io/ja/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/)
+  - [how-to-deploy-wordpress-on-kubernetes-part-1](https://medium.com/codex/how-to-deploy-wordpress-on-kubernetes-part-1-62cc5bd74410)
+  - [how-to-deploy-wordpress-on-kubernetes-part-2](https://medium.com/codex/how-to-deploy-wordpress-on-kubernetes-part-2-df1cc9cbaa2e)
